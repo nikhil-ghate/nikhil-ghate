@@ -7,3 +7,6 @@ Hello, I'm a passionate **Salesforce Developer** with over **4 years of experien
 ## 🚀 What I Bring to the Table
 
 I specialize in building **scalable, modern, and secure Salesforce solutions** that empower businesses to thrive.
+
+
+- **Lightning Web Components (LWC)** ⚡️: Crafting sleek, high-performance UI components for a modern Salesforce experience.
